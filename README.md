@@ -1,4 +1,4 @@
-# Yii 2 YCM
+# Yii 2 YCM Test
 
 YCM - Yii 2 Content Management module
 
